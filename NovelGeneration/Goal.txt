@@ -1,0 +1,13 @@
+Here I will be creating a repository that will hopefully be able to generate coherent, interesting light novels by feeding it novels from lightnovelapi found here: "https://pypi.org/project/lightnovelapi/".
+ 
+Hopefully we will use applied machine learning methods to generate a model that can generate xuaoxuao/isekai light novels from the
+
+If we can produce this succesfully, then maybe I might look into adding in more traditional literature from projectgutenberg.org in order to see if the content generated from the combination of both literature schemes can lead to more significant data.
+
+I might also add a data stream for news outlets if I can get there.
+
+In order to parse the data I will need to filter out the text for special charachters and excessive white space.
+
+So far methods I've heard of in order to create this:
+- use an LTSR Recurrent Neural Network Model To Generate Text
+
